@@ -2,8 +2,8 @@
    "password": "$2y$12$ODtbIJbFJAgCnS39HXffF.mfjJlASPSxVZdP9qy2vQ2bYJdex/ApG",
    "devices": ["24090RA29GA68F2C1CC1297518"],
    "expiry": "01-09-2029 12:00 PM"
-},
-   "bagus1234": {
+},"bagus1234": {
    "password": "$2y$12$tmQsmyQzr5ftIK4.Uij85ObCpqVO7XeueSQdE/qsXTKSEvoUFNwLK",
    "devices": ["RMX3268B73ACB1CF74197F2"],
    "expiry": "30-09-2025 12:00 PM"
+},
