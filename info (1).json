@@ -4,13 +4,8 @@
    "devices": ["24090RA29GA68F2C1CC1297518"],
    "expiry": "01-09-2029 12:00 PM"
 },
-   "ADJI1234": {
-   "password": "$2y$12$n04Avh8DkPdryADQZn2cMevLP3XOkAWOlEvun57e1IGn0ZNSF6eGi",
-   "devices": ["SM-A305F26624AA503EC74B2"],
-   "expiry": "27-10-2025 12:00 PM"
-},
    "ADJI4321": {
-   "password": "$2y$12$h6vpfU3I/pnk84UbbupMguDc9Z7IygHJqRD35NOHXebwmY7A2IZDi",
+   "password": "$2y$12$/Lrt7wmsYkmq/.Xyhv7T2uCPbsi397MNZXNDzsaxaKzbXLMx3.0cS",
    "devices": ["SM-A305F26624AA503EC74B2"],
    "expiry": "27-10-2025 12:00 PM"
 },
