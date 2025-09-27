@@ -4,21 +4,6 @@
    "devices": ["24090RA29GA68F2C1CC1297518"],
    "expiry": "01-09-2029 12:00 PM"
 },
-   "ADJI4321": {
-   "password": "$2y$12$/Lrt7wmsYkmq/.Xyhv7T2uCPbsi397MNZXNDzsaxaKzbXLMx3.0cS",
-   "devices": ["SM-A305F26624AA503EC74B2"],
-   "expiry": "27-10-2025 12:00 PM"
-},
-   "bagusnick1": {
-   "password": "$2y$12$Ri8sqlUznB1Qwu8egyiwh.ghcJI8FKz9ezPdJ3hWeFqqLsCstywee",
-   "devices": ["RMX3268B73ACB1CF74197F2"],
-   "expiry": "16-10-2025 12:00 PM"
-},
-   "Tony1234": {
-   "password": "$2y$12$c972A2y64zFmnmbl1rA7..nWAgAqzFE8YABv9FpK7YOi1NY9CuwoG",
-   "devices": ["SM-A025F5ED1591073FAD0F6"],
-   "expiry": "27-10-2025 12:00 PM"
-},
    "Adji1234": {
    "password": "$2y$12$9kygRn4qgANZ8bao/2kQ7eH8ARJ5rBsgJEphFIVuHaHaui8pIAsBG",
    "devices": ["SM-A037FE8045B5A5C2BFC9C"],
