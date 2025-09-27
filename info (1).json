@@ -24,4 +24,9 @@
    "devices": ["SM-A037FE8045B5A5C2BFC9C"],
    "expiry": "27-10-2025 12:00 PM"
 },
+   "Tony1234": {
+   "password": "$2y$12$PtzSG6Rpxixp5r5QzZmiDex1bJJ0XpoC2Qy36qKc3THUSOEl4H1xG",
+   "devices": ["SM-A025F5ED1591073FAD0F6"],
+   "expiry": "27-10-2025 12:00 PM"
+},
 }
