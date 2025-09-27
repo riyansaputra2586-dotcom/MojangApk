@@ -19,4 +19,9 @@
    "devices": ["M2006C3LGD74C6026F8833D19"],
    "expiry": "27-10-2025 12:00 PM"
 },
+   "Heru1234": {
+   "password": "$2y$12$SraJdAmH7n9O8Y8fzzdRNO1r0kUdDG4k4De1VU..fL9KaKoH98UXW",
+   "devices": ["SM-A042F6EA6CAB14FB76F73"],
+   "expiry": "27-10-2025 12:00 PM"
+},
 }
