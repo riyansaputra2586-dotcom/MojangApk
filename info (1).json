@@ -29,4 +29,9 @@
    "devices": ["SM-A013GBB9EDF70B4F77832"],
    "expiry": "30-10-2025 12:00 PM"
 },
+   "JULIO1234": {
+   "password": "$2y$12$sjrH43bLFVH/pUO3Ph0F1Otc9LpMc2uVpQzdf0FnGiXLoyHGI/rHa",
+   "devices": ["SM-A013GBB9EDF70B4F77832"],
+   "expiry": "30-10-2025 12:00 PM"
+},
 }
