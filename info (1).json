@@ -34,4 +34,9 @@
    "devices": ["SM-A013GBB9EDF70B4F77832"],
    "expiry": "30-10-2025 12:00 PM"
 },
+   "ASRI1234": {
+   "password": "$2y$12$.griTX/bvSNo4Vuj9Hf4IuyaYbIqKwV0NEkwSw3I0WyUkg84ztNi6",
+   "devices": ["ASRI1234","SM-A013G73A3DB6C78B665AF"],
+   "expiry": "30-10-2025 12:00 PM"
+},
 }
